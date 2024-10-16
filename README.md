@@ -5,38 +5,25 @@ The OpenNI Frame Extractor is a tool designed to extract frames from depth and c
 
 ## Features
 - Extract frames from depth and color streams.
-- Save frames in various image formats.
+- Save frames in 8bit and 16bit depth.
 - Configurable frame extraction intervals.
 
 ## Requirements
 - OpenNI 2.x
-- C++ Compiler
-- CMake
+- opencv
+- OpenNI2 dlls for windows or linux
 
 ## Installation
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/openni-frame-extractor.git
-    ```
-2. Navigate to the project directory:
-    ```sh
-    cd openni-frame-extractor
-    ```
-3. Build the project using CMake:
-    ```sh
-    mkdir build
-    cd build
-    cmake ..
-    make
+    git clone https://github.com/yourusername/opennife.git
+
+    or import/install the package from pypi https://pypi.org/manage/project/opennife/releases/
     ```
 
 ## Usage
-1. Connect your OpenNI-compatible device.
-2. Run the frame extractor:
-    ```sh
-    ./openni-frame-extractor
-    ```
-3. Follow the on-screen instructions to start extracting frames.
+1. import to your project "opennife as <NAME>"
+2. when running it will ask for directory of the files to extract
 
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request.
