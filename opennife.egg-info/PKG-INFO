@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: opennife
+Version: 0.1.0
+Summary: A tool to extract frames using OpenNI, the tool extract 8bit and 16bit depth images
+Home-page: https://github.com/lucasrbk
+Author: Lucas Amorim
+Author-email: amorimlucas416@gmail.com
+License: UNKNOWN
+Project-URL: Homepage, https://github.com/lucasrbk
+Project-URL: Issues, https://github.com/lucasrbk
+Platform: UNKNOWN
+Requires-Python: >=3.8
+Provides-Extra: dev
+
+UNKNOWN
+

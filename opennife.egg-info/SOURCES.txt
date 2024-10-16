@@ -1,0 +1,8 @@
+README.md
+setup.py
+opennife.egg-info/PKG-INFO
+opennife.egg-info/SOURCES.txt
+opennife.egg-info/dependency_links.txt
+opennife.egg-info/requires.txt
+opennife.egg-info/top_level.txt
+test/test.py

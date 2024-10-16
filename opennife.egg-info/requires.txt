@@ -1,0 +1,6 @@
+openni==1.0.0
+opencv-python==4.5.3
+numpy==1.21.0
+
+[dev]
+pytest==6.2.4
